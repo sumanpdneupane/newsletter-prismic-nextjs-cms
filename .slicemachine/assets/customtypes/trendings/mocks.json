@@ -1,0 +1,42 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "heart"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "battle",
+    "type": "Text"
+  },
+  "freatureimg": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+      "width": 8640,
+      "height": 8640
+    },
+    "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68",
+    "width": 8640,
+    "height": 8640,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "desc": {
+    "__TYPE__": "FieldContent",
+    "value": "place",
+    "type": "Text"
+  },
+  "published": {
+    "__TYPE__": "FieldContent",
+    "type": "Date",
+    "value": "2019-04-03"
+  }
+}
